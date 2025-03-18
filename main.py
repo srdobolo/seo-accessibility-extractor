@@ -43,6 +43,6 @@ def extract_elements(url):
 # Example usage
 if __name__ == "__main__":
     # Replace this with the URL of the webpage you want to analyze
-    webpage_url = "https://cloudheight.framer.website/"
+    webpage_url = "https://recruityard.com/"
     print(f"Extracting elements from: {webpage_url}\n")
     extract_elements(webpage_url)
